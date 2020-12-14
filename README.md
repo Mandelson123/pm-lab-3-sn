@@ -13,4 +13,5 @@ Numer albumu: 72538
 Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
-...
+...3.2.2. W jaki sposób mozna rozbudować funkcjonalnosc programu w przypadku gdy liczba naciśniec przycisku przekroczy określona ilość ?
+Funkcjonalność programu rozbudpwuje się poprzez zaprogramowanie resetu licznika po wykonaniu kreślonej ilości naciśnieć tak aby zliczanie odbywało się na nowo.
